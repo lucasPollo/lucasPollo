@@ -28,9 +28,9 @@
 ## 📫 Contato
 
 - 📍 Pato Branco - PR  
-- 📧 Email: refinski.lucas@gmail.com  
+- 📧 Email: lucasrefinskipollo@gmail.com 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-refinski-pollo-de-marchi-8828b1270)  
-- 📸 [Instagram profissional](https://instagram.com/devvisual.studio)
+- 📸 [Instagram profissional](https://instagram.com/refinski.lucas)
 
 ---
 
