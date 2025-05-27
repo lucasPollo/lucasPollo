@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Pollo!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Júnior focado em **Python**, **Django**, **HTML**, **CSS** e **JavaScript**  
+🎓 Estudante de Sistemas de informação  
+💻 Desenvolvedor focado em **Python**, **Django**, **HTML**, **CSS** e **JavaScript**  
 🚀 Em busca de oportunidades para crescer e aplicar minhas habilidades em projetos reais  
 📍 Brasil | 18 anos
 
@@ -30,8 +30,8 @@
 
 ## 📫 Contato
 
-- Email: seuemail@email.com  
-- Instagram Profissional: [@devvisual.studio](https://instagram.com/devvisual.studio)
+- Email: lucasrefinskipollo@gmail.com 
+- Instagram Profissional: [Meu Perfil](https://instagram.com/refinski.lucas)
 
 ---
 
