@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Olá, me chamo Lucas 👋🏼:
 🛜 
 Olá! Sou o Lucas, apaixonado por tecnologia e desenvolvimento de software. Concluí o Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas em 2024 e atualmente curso Bacharelado em Sistemas de Informação na Unimater. Tenho experiência prática em Python, Java, SQL, HTML & CSS, além de conhecimentos em banco de dados, redes, computação gráfica e desenvolvimento mobile.</i>
 
