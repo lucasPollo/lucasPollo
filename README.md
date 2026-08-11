@@ -3,7 +3,7 @@
 🎓 Estudante de Sistemas de Informação  
 💻 Desenvolvedor focado em **Python**, **Django**, **HTML**, **CSS** e **JavaScript**  
 🚀 Em busca de oportunidades para crescer e aplicar minhas habilidades em projetos reais  
-📍 Brasil | 18 anos
+📍 Brasil | 20 anos
 
 ---
 
