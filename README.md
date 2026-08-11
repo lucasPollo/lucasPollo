@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Pollo!
 
 🎓 Estudante de Sistemas de Informação  
-💻 Desenvolvedor focado em **Python**, **Django**, **HTML**, **CSS** e **JavaScript**  
+💻 Desenvolvedor backend júnior focado em **Python**, **Django**, **Soluções Web**  
 🚀 Em busca de oportunidades para crescer e aplicar minhas habilidades em projetos reais  
 📍 Brasil | 20 anos
 
@@ -18,10 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasPollo&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasPollo&layout=compact&theme=radical)
 
 ---
 
